@@ -1,0 +1,16 @@
+# VPN Secrets
+*.key
+*.crt
+*.req
+*.ovpn
+*.pem
+*.p12
+
+# Easy-RSA
+openvpn-ca/
+
+# Generated Clients
+client-configs/
+
+# Archives
+*.tar.gz
